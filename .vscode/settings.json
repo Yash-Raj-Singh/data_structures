@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "array": "cpp"
+    },
+    "task.slowProviderWarning": null,
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.cStandard": "c17",
+    "C_Cpp.default.includePath": [],
+    "[json]": {
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+    "C_Cpp.default.browse.path": []
+}
